@@ -1,1 +1,1 @@
-Basit sistem ayarlarımın genel config dosyaları
+Basit sistem ayarlarımın yedeğini aldığım genel config dosyaları
