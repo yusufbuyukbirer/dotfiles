@@ -35,4 +35,5 @@ stow nvim
 stow ghostty
 stow zshrc
 stow tmux
+stow fastfetch
 stow vimrc
