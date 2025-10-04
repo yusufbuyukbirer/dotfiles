@@ -30,3 +30,9 @@ for ext in "${extensions[@]}"; do
         echo "Extension zaten kurulu: $ext"
     fi
 done
+
+stow nvim
+stow ghostty
+stow zsh
+stow tmux
+stow vim
