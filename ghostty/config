@@ -1,0 +1,24 @@
+gtk-titlebar = false
+background-opacity = 0.5
+
+window-width = 116
+window-height = 28
+
+keybind = ctrl+enter=unbind
+keybind = ctrl+ç=toggle_fullscreen
+
+
+keybind = ctrl+r=reload_config
+confirm-close-surface=false
+
+theme = Nocturnal Winter
+#theme = WildCherry
+#theme = Monokai Remastered
+#theme = catppuccin-mocha
+#theme = Monokai Vivid
+#theme = tokyonight
+#theme = Oxocarbon
+#theme = Sakura
+#theme = Argonaut
+#theme = Dracula
+#theme = rose-pine
