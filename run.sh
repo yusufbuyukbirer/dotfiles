@@ -33,6 +33,6 @@ done
 
 stow nvim
 stow ghostty
-stow zsh
+stow zshrc
 stow tmux
-stow vim
+stow vimrc
