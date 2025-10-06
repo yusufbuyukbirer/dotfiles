@@ -20,7 +20,7 @@ done
 # -- pipx yolunu bulur --
 export PATH="$HOME/.local/bin:$PATH"
 
-# -- pipx yükleme --
+# -- pipx ile gext yükleme --
 pipx install gnome-extensions-cli --system-site-packages
 
 # -- Uzantıları yükler --
