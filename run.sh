@@ -20,6 +20,9 @@ done
 # -- pipx yolunu bulur --
 export PATH="$HOME/.local/bin:$PATH"
 
+# -- pipx yükleme --
+pipx install gnome-extensions-cli --system-site-packages
+
 # -- Uzantıları yükler --
 for ext in "${extensions[@]}"; do
     if ! gext list | grep -Fxq "$ext"; then
