@@ -8,7 +8,7 @@ source "packages.conf"
 # -- AUR Paketlerini yükler --
 echo "AUR Paketleri Yükleniyor..."
 for aur_package in "${aur_packages[@]}"; do
-  yay -S --noconfirm "$aur_package"
+  yay -S --needed --noconfirm "$aur_package"
 done
 
 # -- Resmi Paketleri yükler
